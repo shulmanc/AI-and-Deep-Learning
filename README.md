@@ -1,1 +1,1 @@
-# Neural-Networks
+This repository contains some cool projects I did while in my Artificial Intelligence and Deep Learning course. This course covered some of the latest advances in Artificial Intelligence and Deep Learning and how they can be used in a wide variety of marketing applications. It introduced me to the fundamental concepts of neural networks and deep learning, and provided hands-on practice with various marketing datasets, showcasing a wide range of applications from image recognition to targeting. 
